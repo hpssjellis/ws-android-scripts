@@ -1,7 +1,7 @@
 #!/bin/bash  
 
 #  only need to run this script with the command (do not type the #)
-#  bash a01-create-phonegap-cordova.sh
+#  bash a01-create-phonegap-cordova-android-apk.sh
 #  best in cloud 9 to just right click this file and select run
 
 
@@ -47,8 +47,8 @@ ls -l
 cd ~/workspace
 
 
-echo "Look for you new android $wow4/bin $wow4-debug.apk"
-echo "right-click run index.html, then preview-preview running application to view webpage with .apk"
+echo "Look for your new android $wow4/bin/$wow4-debug.apk"
+echo "right-click run index.html, then preview-preview running application to view webpage with your apk file"
 
 
 echo "Or just click this link and open the web page"
