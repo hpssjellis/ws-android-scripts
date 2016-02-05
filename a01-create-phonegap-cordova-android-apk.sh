@@ -7,7 +7,7 @@
 
 #  assumes phonegap or cordova have been installed
 
-echo "Enter a folder name, no spaces, no dashes, underscore allowed, for your app. example: helloWorld"
+echo "Enter a folder name, no spaces, no dashes, underscore allowed, for your app. example: helloCordova"
 read wow4
 
 cordova create $wow4 --name $wow4 --id com.$wow4.$wow4
