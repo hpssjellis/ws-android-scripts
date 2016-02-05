@@ -74,7 +74,7 @@ echo "Type 20 for --target android-20    Android 4.4W.2 KitKat, type 20"
 echo "Type 22 for --target android-22    Android 5.1.1  Lollipop, type 22"
 echo "Type 23 for --target android-23    Android 6.0    Marshmallow, type 23"
 
-read=22
+read=20
 
 
 #http://socialcompare.com/en/comparison/android-versions-comparison
@@ -117,7 +117,7 @@ echo "Type 20 for --target android-20    Android 4.4W.2 KitKat, type 20"
 echo "Type 22 for --target android-22    Android 5.1.1  Lollipop, type 22"
 echo "Type 23 for --target android-23    Android 6.0    Marshmallow, type 23"
 
-read=22
+read=20
 
 
 #Good site to check
