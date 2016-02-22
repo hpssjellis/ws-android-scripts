@@ -8,10 +8,10 @@
 
 echo "The Android SDK home is ANDROID_HOME"
 echo "$ANDROID_HOME"
-
+echo ""
 
 echo "The Android ndk home is"
 echo "/usr/local/android-ndk-r10e"
-
+echo ""
 echo "The path variable is"
 echo "$PATH"
