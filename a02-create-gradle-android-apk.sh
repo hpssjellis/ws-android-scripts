@@ -1,7 +1,7 @@
 #!/bin/bash  
 
 #  only need to run this script with the command (do not type the #)
-#  bash a03-create-gradle-android-apk.sh
+#  bash a02-create-gradle-android-apk.sh
 #  best in cloud 9 to just right click this file and select run
 
 

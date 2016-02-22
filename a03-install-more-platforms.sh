@@ -1,7 +1,7 @@
 #!/bin/bash  
 
 #  only need to run this script with the command (do not type the #)
-#  bash a04-install-more-platforms.sh
+#  bash a03-install-more-platforms.sh
 #  best in cloud 9 to just right click this file and select run
 
 

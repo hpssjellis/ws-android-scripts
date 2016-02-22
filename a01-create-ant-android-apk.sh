@@ -1,7 +1,7 @@
 #!/bin/bash  
 
 #  only need to run this script with the command (do not type the #)
-#  bash a02-create-ant-android-apk.sh
+#  bash a01-create-ant-android-apk.sh
 # best in cloud 9 to just right click this file and select run
 
 
