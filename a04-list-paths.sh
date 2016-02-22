@@ -18,11 +18,11 @@ echo "$PATH"
 echo ""
 
 echo "The Ant version"
-echo "ant -v"
+ant -v
 echo ""
 
 echo "The Gradle version is "
-echo "gradlew -v"
+gradlew -v
 echo ""
 
 
