@@ -22,7 +22,7 @@ ant -v
 echo ""
 
 echo "The Gradle version is "
-gradlew -v
+gradle -v
 echo ""
 
 
