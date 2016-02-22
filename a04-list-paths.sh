@@ -15,3 +15,23 @@ echo "/usr/local/android-ndk-r10e"
 echo ""
 echo "The path variable is"
 echo "$PATH"
+echo ""
+
+echo "The Ant version"
+echo "ant -v"
+echo ""
+
+echo "The Gradle version is "
+echo "gradlew -v"
+echo ""
+
+
+echo ""
+echo ""
+echo ""
+
+
+
+echo ""
+echo ""
+echo ""
