@@ -7,7 +7,7 @@
 #which javac
 #whereis fetch
 #readlink -f "pip"
-#
+# readlink -f $(which python)
 
 echo "The Android SDK home is ANDROID_HOME"
 echo "$ANDROID_HOME"
