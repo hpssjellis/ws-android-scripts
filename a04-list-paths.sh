@@ -35,3 +35,16 @@ echo ""
 echo ""
 echo ""
 echo ""
+
+
+echo "Making a symlink to the Android-SDK"
+ln -s /usr/local/android-sdk-linux /home/ubuntu/workspace/android-SDK-link
+
+echo "Making a symlink to the Android-NDK"
+ln -s /usr/local/android-ndk-r10e /home/ubuntu/workspace/android-NDK-link
+
+
+
+
+
+
