@@ -4,7 +4,10 @@
 #  bash a04-list-paths.sh
 #  best in cloud 9 to just right click this file and select run
 
-
+#which javac
+#whereis fetch
+#readlink -f "pip"
+#
 
 echo "The Android SDK home is ANDROID_HOME"
 echo "$ANDROID_HOME"
