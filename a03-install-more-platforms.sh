@@ -15,14 +15,14 @@
 echo "Finding code numbers for the Android SDK platform you wish to install"
 echo ""
 
-android list sdk
+sudo android list sdk
 
 echo "------------------------------------------------------------------------"
 echo ""
 echo "Type the left hand side number of the SDK to install. example 1"
 
 read myNum
-android update sdk --filter $myNum --no-ui --force 
+sudo android update sdk --filter $myNum --no-ui --force 
 
 
 # the commands to install the platforms
