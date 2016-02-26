@@ -6,6 +6,6 @@ ADD ./temp-files /home/ubuntu/workspace/temp-files
 
 
 ENV PATH ${PATH}:/home/ubuntu/workspace
-RUN ["/home/ubuntu/workspace/temp-files/setup.sh"]
+RUN ["chmod a+x /home/ubuntu/workspace/temp-files/setup.sh","/home/ubuntu/workspace/temp-files/setup.sh"]
 
 
