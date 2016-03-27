@@ -4,6 +4,9 @@ if ! mkdir /tmp/myscript.lock 2>/dev/null; then
 fi
 
 
+sudo chown -R ubuntu:ubuntu /usr/local/android-sdk-linux
+
+
 
 
 openjdk-7-jdk   
