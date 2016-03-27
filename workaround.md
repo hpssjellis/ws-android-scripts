@@ -7,7 +7,16 @@ fi
 sudo chown -R ubuntu:ubuntu /usr/local/android-sdk-linux
 
 
+note:
 
+/usr/local/gradle-2.9   but whatch for the version
+
+/usr/lib/jvm/java-7-openjdk-amd64
+
+
+
+
+/usr/lib/jvm/java-7-openjdk-amd64
 
 openjdk-7-jdk   
 
